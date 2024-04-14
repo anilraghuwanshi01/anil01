@@ -16,7 +16,7 @@ html, body{
 #anil h4{
     font-size:18px;
     font-weight: 600;
-    color: rgb(255, 255, 255)    ;
+    color: rgb(255, 252, 252)    ;
 }
 #anil h2{
     display: flex;
@@ -33,168 +33,97 @@ html, body{
     transform: translate(-50% -50%);
     top: 20px;
 }
-#anil1{
+#anil1 h5{
     position: absolute;
     left: 47.5%;
 }
 #anil01 h1{
     position: absolute;
-    top: 50%;
-    left: 22%;
-    font-size: 50px;
-    font-weight: 500;
-}
-#anil01 h5{
-    position: absolute;
-    top: 58%;
-    left: 20.5%;
-    font-size: 18px;
-    font-weight: 500;
-}
-#anil01 h2{
-    position: absolute;
-    top: 65%;
-    left: 14%;
-    font-size: 20px;
-    font-weight: 500;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    top: 68%;
+    left: 66%;
+    font-size: 60px;
 }
 #anil01 p{
     position: absolute;
-    top: 70%;
-    left: 8%;
-    font-size: 20px;
-    display: flex;
-    align-items: center;
     text-align: center;
+    align-items: center;
+    top: 94%;
+    left:63% ;
+    right: 9%;
+    font-size: 23px;
 }
-#anil02 p{
+#anil01 h5{
     position: absolute;
-    top: 85%;
-    left: 17%;
-    font-size: 20px;
+    top: 112%;
+    left: 67%;
+    font-size: 22px;
+    font-weight: 500;
 }
-#anil02 img{
-    height:85%;
-    width: 32%;
+#anil01 img{
     position: absolute;
-    top: 35%;
-    left: 55%;
+    height: 108%;
+    width: 30%;
+    padding-top: 14%;
+    left: 28%;
+}
+.backimg01{
+    position: absolute;
+    height: 68%;
+    width: 78%;
+    top: 48%;
+    left: -18%;
+}
+#anil02 h1{
+    position: absolute;
+    top: 165%;
+    left: 27%;
+    font-size: 80px;
+    font-weight: 500;
+}
+#anil02 h5{
+    position: absolute;
+    top: 179%;
+    left: 31%;
+    font-size: 27px;
+    font-weight: 600;
 }
 #border{
-    height: 40%;
-    width: 50%;
     position: absolute;
-    top: 95%;
-    left: 25%;
+    height: 40%;
+    width: 60%;
+    top: 115%;
+    left: 20%;
     border-bottom: 1px solid #000;
 }
 #border01{
+    position: absolute;
     height: 40%;
     width: 50%;
-    position: absolute;
-    top: 125%;
+    top: 148%;
     left: 25%;
     border-bottom: 1px solid #000;
 }
-#anil03 h1{
+#anil02 h2{
     position: absolute;
-    top: 140%;
-    left: 38% ;
-    font-size: 40px;
+    top: 200%;
+    left: 39%;
+    font-size: 80px;
     font-weight: 500;
 }
-#anil03 p{
+#anil02 img{
     position: absolute;
-    top: 152%;
-    left: 25% ;
-    font-size: 25px;
-    right: 18%;
-    color: #ffffff;
-}
-#anil03 img{
-    position: absolute;
-    height: 120%;
+    height: 270%;
     width: 100%;
     top: 1px;
-    z-index: -2;
-}
-#background img{
-    position: absolute;
-    height: 120%;
-    width: 100%;
-    top: 120%;
-    z-index: -2;
-}
-#anil04 h1{
-    position: absolute;
-    top: 175%;
-    left: 35%;
-    font-size: 46px;
-    color: #000000;
-    font-weight: 500;
-}
-#anil04 p{
-    position: absolute;
-    top: 185%;
-    left: 39%;
-    font-size: 27px;
-}
-#border02{
-    height: 40%;
-    width: 50%;
-    position: absolute;
-    top: 155%;
-    left: 25%;
-    border-bottom: 1px solid #000;
-}
-#anil05{
-    display: flex;
-    justify-content: space-evenly;
-    padding-top: 92%;
-    font-size: 18px;
-    color: #ffffff;
-}
-#anil05 p{
-    font-size: 40px;
-    text-align: center;
-    font-weight: 500;
-    color: #000000;
-}
-.bug{
-   padding-left: 8%;
-   font-size: 25px;
-   padding-top: 10.5%;
-}
-#button h4{
-    position: absolute;
-    padding-left: 85%;
-    top: 232%;
-    font-size: 20px;
-    color: #ffffff;
-}
-#border03{
-    height: 40%;
-    width: 50%;
-    position: absolute;
-    top: 175%;
-    left: 25%;
-    border-bottom: 1px solid #000;
-}
-#border04{
-    height: 20%;
-    width: 7%;
-    position: absolute;
-    top: 214.5%;
-    left: 85%;
-    border-bottom: 2px solid #ffffff;
-}
-#bugbackground p{
-    position: absolute;
-    height: 4%;
-    width: 5%;
-    top: 230%;
-    left: 7.7%;
-    background-color: rgb(228, 228, 228);
     z-index: -1;
-    border-radius: 19%;
+}
+.background01 img{
+    position: absolute;
+    height: 270%;
+    width: 100%;
+    top: 152%;
+    z-index: -1;
 }
